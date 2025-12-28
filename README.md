@@ -24,3 +24,19 @@ Matplotlib
 You can install dependencies using:
 
 pip install -r requirements.txt
+
+License
+
+This code is provided for academic and research purposes only.
+
+If you use this implementation or build upon it, please cite the associated manuscript.
+
+Authors
+Amirhossein Fathinavid1
+Amirhossein Shoshtari Tavasoli
+Email: amirhoseinshoshtari@gmail.com
+
+
+Acknowledgment
+
+This repository is released to facilitate peer review, verification, and future research on adaptive automata–based community detection methods.
